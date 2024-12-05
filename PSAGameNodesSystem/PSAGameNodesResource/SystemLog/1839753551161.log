@@ -1,0 +1,164 @@
+[2024.12.05 17:13:33 866 ms]:[INFO]:[PSAG_LOGGER]: start thread success.
+[2024.12.05 17:13:33 866 ms]:[INFO]:[PSAG_LOGGER]: create log_file: PSAGameNodesResource/SystemLog/1839753551161.log
+[2024.12.05 17:13:34 133 ms]:[INFO]:[SystemRenderer]: nodes_system renderer(context) init.
+[2024.12.05 17:13:34 133 ms]:[INFO]:[EditorSystem]: set nodes system folder: PSAGameNodesResource/SystemNodes/
+[2024.12.05 17:13:34 133 ms]:[INFO]:[EditorSystem]: system read file: PSAGameNodesResource/SystemNodes/nodes_editor_config.json
+[2024.12.05 17:13:34 134 ms]:[INFO]:[EditorSystem]: read editor system files: 1 folder: PSAGameNodesResource/SystemSave/
+[2024.12.05 17:13:34 134 ms]:[INFO]:[EditorSystem]: system read file: PSAGameNodesResource/SystemNodes/types_point_conifg.json
+[2024.12.05 17:13:34 135 ms]:[INFO]:[EditorSystem]: system points type_alloc k: Int32 v: 2
+[2024.12.05 17:13:34 135 ms]:[INFO]:[EditorSystem]: system points type_alloc k: uInt32 v: 3
+[2024.12.05 17:13:34 135 ms]:[INFO]:[EditorSystem]: system points type_alloc k: Int64 v: 4
+[2024.12.05 17:13:34 135 ms]:[INFO]:[EditorSystem]: system points type_alloc k: uInt64 v: 5
+[2024.12.05 17:13:34 135 ms]:[INFO]:[EditorSystem]: system points type_alloc k: Float v: 6
+[2024.12.05 17:13:34 135 ms]:[INFO]:[EditorSystem]: system points type_alloc k: Double v: 7
+[2024.12.05 17:13:34 136 ms]:[INFO]:[EditorSystem]: system points type_alloc k: Byte v: 8
+[2024.12.05 17:13:34 136 ms]:[INFO]:[EditorSystem]: system read file: PSAGameNodesResource/SystemNodes/types_node_conifg.json
+[2024.12.05 17:13:34 136 ms]:[INFO]:[EditorSystem]: system nodes type_alloc k: TestNodeA v: 2
+[2024.12.05 17:13:34 137 ms]:[INFO]:[EditorSystem]: system nodes type_alloc k: TestNodeB v: 3
+[2024.12.05 17:13:34 137 ms]:[INFO]:[EditorSystem]: system nodes type_alloc k: TestNodeC v: 4
+[2024.12.05 17:13:34 137 ms]:[INFO]:[EditorSystem]: system nodes type_alloc k: TestNodeD v: 5
+[2024.12.05 17:13:34 137 ms]:[INFO]:[EditorSystem]: system nodes type_alloc k: TestNodeE v: 6
+[2024.12.05 17:13:34 137 ms]:[INFO]:[EditorSystem]: system nodes type_alloc k: TestNodeF v: 7
+[2024.12.05 17:13:34 137 ms]:[INFO]:[EditorSystem]: system nodes type_alloc k: NodeInput v: 8
+[2024.12.05 17:13:34 137 ms]:[INFO]:[EditorSystem]: system nodes type_alloc k: NodeOutput v: 9
+[2024.12.05 17:13:34 138 ms]:[INFO]:[EditorSystem]: system read file: PSAGameNodesResource/SystemNodes/nodes_attribute_config.json
+[2024.12.05 17:13:34 138 ms]:[INFO]:[EditorSystem]: add node template config, params name: TestNodeA
+[2024.12.05 17:13:34 138 ms]:[INFO]:[EditorSystem]: add node template config, params name: TestNodeB
+[2024.12.05 17:13:34 138 ms]:[INFO]:[EditorSystem]: add node template config, params name: TestNodeC
+[2024.12.05 17:13:34 138 ms]:[INFO]:[EditorSystem]: add node template config, params name: TestNodeD
+[2024.12.05 17:13:34 138 ms]:[INFO]:[EditorSystem]: add node template config, params name: TestNodeE
+[2024.12.05 17:13:34 138 ms]:[INFO]:[EditorSystem]: add node template config, params name: TestNodeF
+[2024.12.05 17:13:34 138 ms]:[INFO]:[EditorSystem]: add node template config, params name: NodeInput
+[2024.12.05 17:13:34 139 ms]:[INFO]:[EditorSystem]: add node template config, params name: NodeOutput
+[2024.12.05 17:13:34 139 ms]:[INFO]:[EditorSystem]: nodes editor system init.
+[2024.12.05 17:13:34 139 ms]:[INFO]:[SystemRenderer]: run_event object init.
+[2024.12.05 17:13:34 139 ms]:[INFO]:[SystemRenderer]: nodes_system start render_loop.
+[2024.12.05 17:14:11 478 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents A id: 2
+[2024.12.05 17:14:13 789 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents C id: 9
+[2024.12.05 17:14:16 557 ms]:[INFO]:[EditorSystem]: create connect line id: 14
+[2024.12.05 17:14:18 522 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents B id: 15
+[2024.12.05 17:14:21 375 ms]:[INFO]:[EditorSystem]: create connect line id: 22
+[2024.12.05 17:14:23 090 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents B id: 23
+[2024.12.05 17:14:28 794 ms]:[INFO]:[EditorSystem]: create connect line id: 30
+[2024.12.05 17:14:31 867 ms]:[INFO]:[EditorSystem]: create connect line id: 31
+[2024.12.05 17:14:34 260 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents I id: 32
+[2024.12.05 17:14:43 223 ms]:[INFO]:[EditorSystem]: create connect line id: 34
+[2024.12.05 17:14:44 616 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents I id: 35
+[2024.12.05 17:14:47 483 ms]:[INFO]:[EditorSystem]: create connect line id: 37
+[2024.12.05 17:14:51 871 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents O id: 38
+[2024.12.05 17:14:54 617 ms]:[INFO]:[EditorSystem]: create connect line id: 41
+[2024.12.05 17:14:58 975 ms]:[INFO]:[EditorSystem]: delete connect line id: 34
+[2024.12.05 17:14:58 975 ms]:[INFO]:[EditorSystem]: delete connect line id: 37
+[2024.12.05 17:14:58 976 ms]:[INFO]:[EditorSystem]: delete connect line id: 22
+[2024.12.05 17:14:58 976 ms]:[INFO]:[EditorSystem]: delete connect line id: 30
+[2024.12.05 17:14:58 977 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents B id: 15
+[2024.12.05 17:15:00 350 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents A id: 42
+[2024.12.05 17:15:03 771 ms]:[INFO]:[EditorSystem]: create connect line id: 49
+[2024.12.05 17:15:05 775 ms]:[INFO]:[EditorSystem]: create connect line id: 50
+[2024.12.05 17:15:09 443 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents I id: 32
+[2024.12.05 17:15:10 624 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents I id: 35
+[2024.12.05 17:15:12 273 ms]:[INFO]:[EditorSystem]: delete connect line id: 49
+[2024.12.05 17:15:12 273 ms]:[INFO]:[EditorSystem]: delete connect line id: 31
+[2024.12.05 17:15:12 273 ms]:[INFO]:[EditorSystem]: delete connect line id: 14
+[2024.12.05 17:15:12 274 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents A id: 2
+[2024.12.05 17:15:13 435 ms]:[INFO]:[EditorSystem]: delete connect line id: 50
+[2024.12.05 17:15:13 435 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents C id: 9
+[2024.12.05 17:15:14 585 ms]:[INFO]:[EditorSystem]: delete connect line id: 41
+[2024.12.05 17:15:14 586 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents B id: 23
+[2024.12.05 17:15:15 678 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents O id: 38
+[2024.12.05 17:15:17 872 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents A id: 42
+[2024.12.05 17:15:26 794 ms]:[ERROR]:[EditorSystem]: load project filepath invalid.
+[2024.12.05 17:15:30 653 ms]:[INFO]:[EditorSystem]: create connect line id: 51
+[2024.12.05 17:15:30 654 ms]:[INFO]:[EditorSystem]: create connect line id: 52
+[2024.12.05 17:15:30 654 ms]:[INFO]:[EditorSystem]: create connect line id: 53
+[2024.12.05 17:15:30 655 ms]:[INFO]:[EditorSystem]: create connect line id: 54
+[2024.12.05 17:15:30 655 ms]:[INFO]:[EditorSystem]: create connect line id: 55
+[2024.12.05 17:15:30 655 ms]:[INFO]:[EditorSystem]: create connect line id: 56
+[2024.12.05 17:15:30 656 ms]:[INFO]:[EditorSystem]: create connect line id: 57
+[2024.12.05 17:15:30 656 ms]:[INFO]:[EditorSystem]: create connect line id: 58
+[2024.12.05 17:15:30 656 ms]:[INFO]:[EditorSystem]: create connect line id: 59
+[2024.12.05 17:15:30 656 ms]:[INFO]:[EditorSystem]: create connect line id: 60
+[2024.12.05 17:15:30 656 ms]:[INFO]:[EditorSystem]: create connect line id: 61
+[2024.12.05 17:15:30 657 ms]:[INFO]:[EditorSystem]: create connect line id: 62
+[2024.12.05 17:15:30 657 ms]:[INFO]:[EditorSystem]: create connect line id: 63
+[2024.12.05 17:15:30 657 ms]:[INFO]:[EditorSystem]: create connect line id: 64
+[2024.12.05 17:15:30 657 ms]:[INFO]:[EditorSystem]: nodes project encode duccess.
+[2024.12.05 17:15:35 214 ms]:[INFO]:[EditorSystem]: delete connect line id: 52
+[2024.12.05 17:15:35 215 ms]:[INFO]:[EditorSystem]: delete connect line id: 54
+[2024.12.05 17:15:35 215 ms]:[INFO]:[EditorSystem]: delete connect line id: 56
+[2024.12.05 17:15:35 216 ms]:[INFO]:[EditorSystem]: delete connect line id: 57
+[2024.12.05 17:15:35 216 ms]:[INFO]:[EditorSystem]: delete connect line id: 62
+[2024.12.05 17:15:35 216 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents B id: 50
+[2024.12.05 17:15:36 647 ms]:[INFO]:[EditorSystem]: delete connect line id: 58
+[2024.12.05 17:15:36 647 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents E id: 74
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 65
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 66
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 67
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 68
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 69
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 70
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 71
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 72
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 73
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 74
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 75
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 76
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 77
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: create connect line id: 78
+[2024.12.05 17:15:37 522 ms]:[INFO]:[EditorSystem]: nodes project encode duccess.
+[2024.12.05 17:15:41 919 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents B id: 79
+[2024.12.05 17:15:46 357 ms]:[INFO]:[EditorSystem]: create connect line id: 86
+[2024.12.05 17:15:49 242 ms]:[INFO]:[EditorSystem]: create connect line id: 87
+[2024.12.05 17:15:56 194 ms]:[INFO]:[EditorSystem]: save nodes project file: PSAGameNodesResource/SystemSave/TEST.pnodes
+[2024.12.05 17:15:56 194 ms]:[INFO]:[EditorSystem]: save nodes project total time(ms): 1.518000
+[2024.12.05 17:15:56 195 ms]:[INFO]:[EditorSystem]: read editor system files: 2 folder: PSAGameNodesResource/SystemSave/
+[2024.12.05 17:15:58 395 ms]:[INFO]:[EditorSystem]: delete total nodes dataset.
+[2024.12.05 17:16:04 162 ms]:[INFO]:[EditorSystem]: create connect line id: 88
+[2024.12.05 17:16:04 162 ms]:[INFO]:[EditorSystem]: create connect line id: 89
+[2024.12.05 17:16:04 162 ms]:[INFO]:[EditorSystem]: create connect line id: 90
+[2024.12.05 17:16:04 162 ms]:[INFO]:[EditorSystem]: create connect line id: 91
+[2024.12.05 17:16:04 162 ms]:[INFO]:[EditorSystem]: create connect line id: 92
+[2024.12.05 17:16:04 162 ms]:[INFO]:[EditorSystem]: create connect line id: 93
+[2024.12.05 17:16:04 162 ms]:[INFO]:[EditorSystem]: create connect line id: 94
+[2024.12.05 17:16:04 162 ms]:[INFO]:[EditorSystem]: create connect line id: 95
+[2024.12.05 17:16:04 163 ms]:[INFO]:[EditorSystem]: create connect line id: 96
+[2024.12.05 17:16:04 164 ms]:[INFO]:[EditorSystem]: create connect line id: 97
+[2024.12.05 17:16:04 164 ms]:[INFO]:[EditorSystem]: create connect line id: 98
+[2024.12.05 17:16:04 164 ms]:[INFO]:[EditorSystem]: create connect line id: 99
+[2024.12.05 17:16:04 164 ms]:[INFO]:[EditorSystem]: create connect line id: 100
+[2024.12.05 17:16:04 164 ms]:[INFO]:[EditorSystem]: create connect line id: 101
+[2024.12.05 17:16:04 165 ms]:[INFO]:[EditorSystem]: create connect line id: 102
+[2024.12.05 17:16:04 165 ms]:[INFO]:[EditorSystem]: create connect line id: 103
+[2024.12.05 17:16:04 165 ms]:[INFO]:[EditorSystem]: nodes project encode duccess.
+[2024.12.05 17:16:08 241 ms]:[INFO]:[EditorSystem]: delete connect line id: 89
+[2024.12.05 17:16:08 242 ms]:[INFO]:[EditorSystem]: delete connect line id: 91
+[2024.12.05 17:16:08 243 ms]:[INFO]:[EditorSystem]: delete connect line id: 93
+[2024.12.05 17:16:08 243 ms]:[INFO]:[EditorSystem]: delete connect line id: 94
+[2024.12.05 17:16:08 243 ms]:[INFO]:[EditorSystem]: delete connect line id: 99
+[2024.12.05 17:16:08 244 ms]:[INFO]:[EditorSystem]: delete connect line id: 102
+[2024.12.05 17:16:08 244 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents B id: 50
+[2024.12.05 17:16:21 604 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents I id: 41
+[2024.12.05 17:16:23 707 ms]:[INFO]:[EditorSystem]: delete connect line id: 95
+[2024.12.05 17:16:23 707 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents E id: 74
+[2024.12.05 17:16:24 823 ms]:[INFO]:[EditorSystem]: delete connect line id: 88
+[2024.12.05 17:16:24 823 ms]:[INFO]:[EditorSystem]: delete connect line id: 97
+[2024.12.05 17:16:24 823 ms]:[INFO]:[EditorSystem]: delete connect line id: 103
+[2024.12.05 17:16:24 823 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents A id: 43
+[2024.12.05 17:16:25 961 ms]:[INFO]:[EditorSystem]: delete connect line id: 100
+[2024.12.05 17:16:25 962 ms]:[INFO]:[EditorSystem]: delete connect line id: 101
+[2024.12.05 17:16:25 962 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents B id: 106
+[2024.12.05 17:16:27 042 ms]:[INFO]:[EditorSystem]: delete connect line id: 90
+[2024.12.05 17:16:27 042 ms]:[INFO]:[EditorSystem]: delete connect line id: 92
+[2024.12.05 17:16:27 042 ms]:[INFO]:[EditorSystem]: delete connect line id: 96
+[2024.12.05 17:16:27 043 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents B id: 63
+[2024.12.05 17:16:28 126 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents I id: 60
+[2024.12.05 17:16:29 041 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents I id: 58
+[2024.12.05 17:16:33 610 ms]:[INFO]:[EditorSystem]: delete connect line id: 98
+[2024.12.05 17:16:34 762 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents F id: 88
+[2024.12.05 17:16:35 755 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents O id: 95
+[2024.12.05 17:16:36 973 ms]:[INFO]:[EditorSystem]: delete node entity name: NodeComponents B id: 79
+[2024.12.05 17:16:39 613 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents A id: 104
+[2024.12.05 17:16:41 974 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents B id: 111
+[2024.12.05 17:16:44 890 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents C id: 118
+[2024.12.05 17:16:47 689 ms]:[INFO]:[EditorSystem]: create node entity name: NodeComponents F id: 123
+[2024.12.05 17:17:15 339 ms]:[INFO]:[SystemRenderer]: nodes_system renderer(context) free.
